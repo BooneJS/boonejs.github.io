@@ -1,0 +1,2 @@
+User-agent: *
+Sitemap: http://boonejs.github.io/sitemap.xml
